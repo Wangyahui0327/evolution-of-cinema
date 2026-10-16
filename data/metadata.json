@@ -1,0 +1,10 @@
+{
+  "movies": 26400,
+  "genre_rows": 66913,
+  "crew_rows": 166273,
+  "cast_rows": 308640,
+  "awards_rows": 25552,
+  "rated_rt": 15884,
+  "edges": 5924,
+  "network_definition": "Director\u2013actor pairs appearing in at least two films released in the same decade; up to six cast members per film, sorted by cast_order where available. No claim about production relationships beyond credited co-appearance."
+}
